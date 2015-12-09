@@ -1,4 +1,10 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< This project has been coded by geekyprincess(aka Ashima) >>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+To know more about me, visit my linkedIn profile:       https://in.linkedin.com/in/goelashima
+
 # SampleApp1
+
 A simple application using NodeJS, AngularJS, Postgres and ExpressJS --> Just to get hang of it ;-)
 
 To run this you will need the following thing:
